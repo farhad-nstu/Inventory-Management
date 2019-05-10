@@ -1,0 +1,3 @@
+<a href="{{ route('yearly.expense') }}" class="btn btn-sm btn-danger pull-right">This years's</a>
+<a href="{{ route('monthly.expense') }}" class="btn btn-sm btn-warning pull-right">This month's</a>
+<a href="{{ route('today.expense') }}" class="btn btn-sm btn-success pull-right">Today's</a>
